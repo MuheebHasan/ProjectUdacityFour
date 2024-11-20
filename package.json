@@ -1,0 +1,12 @@
+{
+  "name": "udacitysecondproject",
+  "version": "1.0.0",
+  "description": "يتيح هذا المشروع إنشاء شريط تنقل ديناميكي يظهر روابط للأقسام تلقائيًا بناءً على المحتوى. يتضمن أيضًا تنسيقًا يستجيب للأجهزة المختلفة، بحيث يتكيف التصميم مع شاشات الهواتف والأجهزة اللوحية.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
