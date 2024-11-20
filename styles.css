@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+input, textarea, button {
+  margin: 10px;
+}
+
+#entryHolder {
+  margin-top: 20px;
+}
